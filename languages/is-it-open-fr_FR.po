@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Is it open ?\n"
+"POT-Creation-Date: 2015-09-14 12:41+0200\n"
+"PO-Revision-Date: 2015-09-14 12:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: is-it-open.php:33 is-it-open.php:87
+msgid "Monday"
+msgstr "Lundi"
+
+#: is-it-open.php:34 is-it-open.php:92
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: is-it-open.php:35 is-it-open.php:97
+msgid "Wednsday"
+msgstr "Mercredi"
+
+#: is-it-open.php:36 is-it-open.php:102
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: is-it-open.php:37 is-it-open.php:107
+msgid "Friday"
+msgstr "Vendredi"
+
+#: is-it-open.php:38 is-it-open.php:112
+msgid "Saturday"
+msgstr "Samedi"
+
+#: is-it-open.php:39 is-it-open.php:117
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: is-it-open.php:83
+msgid "Add a schedule"
+msgstr "Ajouter un calendrier"
+
+#: is-it-open.php:89 is-it-open.php:94 is-it-open.php:99 is-it-open.php:104
+#: is-it-open.php:109 is-it-open.php:114 is-it-open.php:119
+msgid "Leave blank if you want to hide this day."
+msgstr "Laissez ce champ vide si vous voulez cacher ce jour."
+
+#: is-it-open.php:122
+msgid "Display all days"
+msgstr "Afficher tout  les jours"
+
+#: is-it-open.php:126
+msgid "Display week days"
+msgstr "Afficher les jours ouvrables"
+
+#: is-it-open.php:130
+msgid "Color"
+msgstr "Couleur heures occupées"
+
+#: is-it-open.php:132
+msgid "Specify the color of the schedule in hexadecimal value like #333333."
+msgstr "Spécifiez la couleur du calendrier en valeur hexadécimale (#333333)"
+
+#: is-it-open.php:132
+msgid "Leave blank if you want to display default color."
+msgstr "Laissez ce champ vide si vous voulez afficher la couleur par défaut."
+
+#: is-it-open.php:136
+msgid "Insert Schedule"
+msgstr "Insérer le calendrier"
